@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey there, I'm Mandy! 👋🏻
 
-<!--
-**amandahom/amandahom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/amanda-hom)
 
-Here are some ideas to get you started:
+My name is Amanda Hom but I go by Mandy. I started to learn the basics of front-end development in the beginning of quarantine and it has been a tremendous journey!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love pasta 🍝, sports ⚾️🏀🏈, and hanging out with friends.
+
+I take pictures sometimes. 📷
+
+<br>
+
+![Example Image](assets/image.jpg)
