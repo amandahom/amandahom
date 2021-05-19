@@ -4,7 +4,7 @@
 
 My name is Amanda Hom but I go by Mandy. I started to learn the basics of front-end development in the beginning of quarantine and it has been a tremendous journey!
 
-I love pasta 🍝, sports ⚾️🏀🏈, and hanging out with friends.
+I love pasta, sports, and hanging out with friends. 🍝
 
 I take pictures sometimes. 📷
 
