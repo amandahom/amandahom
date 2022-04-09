@@ -4,10 +4,6 @@
 
 My name is Amanda Hom but I go by Mandy. In the early stages of quarantine, I started to learn how to code. It has been a tremendous journey so far!
 
-I love pasta, sports, and hanging out with friends. 🍝
+I love pasta, sports, taking pictures, and hanging out with friends. 🍝📸
 
-I take pictures sometimes. 📷
 
-<br>
-
-![Example Image](assets/image.jpg)
